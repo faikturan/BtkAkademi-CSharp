@@ -1,0 +1,13 @@
+C:\Users\ruvey\Documents\GitHub\BtkAkademi-CSharp\CSharp\12_Inheritance\bin\Debug\netcoreapp3.1\12_Inheritance.exe
+C:\Users\ruvey\Documents\GitHub\BtkAkademi-CSharp\CSharp\12_Inheritance\bin\Debug\netcoreapp3.1\12_Inheritance.deps.json
+C:\Users\ruvey\Documents\GitHub\BtkAkademi-CSharp\CSharp\12_Inheritance\bin\Debug\netcoreapp3.1\12_Inheritance.runtimeconfig.json
+C:\Users\ruvey\Documents\GitHub\BtkAkademi-CSharp\CSharp\12_Inheritance\bin\Debug\netcoreapp3.1\12_Inheritance.runtimeconfig.dev.json
+C:\Users\ruvey\Documents\GitHub\BtkAkademi-CSharp\CSharp\12_Inheritance\bin\Debug\netcoreapp3.1\12_Inheritance.dll
+C:\Users\ruvey\Documents\GitHub\BtkAkademi-CSharp\CSharp\12_Inheritance\bin\Debug\netcoreapp3.1\12_Inheritance.pdb
+C:\Users\ruvey\Documents\GitHub\BtkAkademi-CSharp\CSharp\12_Inheritance\obj\Debug\netcoreapp3.1\12_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\ruvey\Documents\GitHub\BtkAkademi-CSharp\CSharp\12_Inheritance\obj\Debug\netcoreapp3.1\12_Inheritance.AssemblyInfoInputs.cache
+C:\Users\ruvey\Documents\GitHub\BtkAkademi-CSharp\CSharp\12_Inheritance\obj\Debug\netcoreapp3.1\12_Inheritance.AssemblyInfo.cs
+C:\Users\ruvey\Documents\GitHub\BtkAkademi-CSharp\CSharp\12_Inheritance\obj\Debug\netcoreapp3.1\12_Inheritance.dll
+C:\Users\ruvey\Documents\GitHub\BtkAkademi-CSharp\CSharp\12_Inheritance\obj\Debug\netcoreapp3.1\12_Inheritance.pdb
+C:\Users\ruvey\Documents\GitHub\BtkAkademi-CSharp\CSharp\12_Inheritance\obj\Debug\netcoreapp3.1\12_Inheritance.genruntimeconfig.cache
+C:\Users\ruvey\Documents\GitHub\BtkAkademi-CSharp\CSharp\12_Inheritance\obj\Debug\netcoreapp3.1\12_Inheritance.csprojAssemblyReference.cache

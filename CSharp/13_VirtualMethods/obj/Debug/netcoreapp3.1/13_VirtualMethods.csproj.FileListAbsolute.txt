@@ -1,0 +1,12 @@
+C:\Users\ruvey\Documents\GitHub\BtkAkademi-CSharp\CSharp\13_VirtualMethods\bin\Debug\netcoreapp3.1\13_VirtualMethods.exe
+C:\Users\ruvey\Documents\GitHub\BtkAkademi-CSharp\CSharp\13_VirtualMethods\bin\Debug\netcoreapp3.1\13_VirtualMethods.deps.json
+C:\Users\ruvey\Documents\GitHub\BtkAkademi-CSharp\CSharp\13_VirtualMethods\bin\Debug\netcoreapp3.1\13_VirtualMethods.runtimeconfig.json
+C:\Users\ruvey\Documents\GitHub\BtkAkademi-CSharp\CSharp\13_VirtualMethods\bin\Debug\netcoreapp3.1\13_VirtualMethods.runtimeconfig.dev.json
+C:\Users\ruvey\Documents\GitHub\BtkAkademi-CSharp\CSharp\13_VirtualMethods\bin\Debug\netcoreapp3.1\13_VirtualMethods.dll
+C:\Users\ruvey\Documents\GitHub\BtkAkademi-CSharp\CSharp\13_VirtualMethods\bin\Debug\netcoreapp3.1\13_VirtualMethods.pdb
+C:\Users\ruvey\Documents\GitHub\BtkAkademi-CSharp\CSharp\13_VirtualMethods\obj\Debug\netcoreapp3.1\13_VirtualMethods.csproj.CoreCompileInputs.cache
+C:\Users\ruvey\Documents\GitHub\BtkAkademi-CSharp\CSharp\13_VirtualMethods\obj\Debug\netcoreapp3.1\13_VirtualMethods.AssemblyInfoInputs.cache
+C:\Users\ruvey\Documents\GitHub\BtkAkademi-CSharp\CSharp\13_VirtualMethods\obj\Debug\netcoreapp3.1\13_VirtualMethods.AssemblyInfo.cs
+C:\Users\ruvey\Documents\GitHub\BtkAkademi-CSharp\CSharp\13_VirtualMethods\obj\Debug\netcoreapp3.1\13_VirtualMethods.dll
+C:\Users\ruvey\Documents\GitHub\BtkAkademi-CSharp\CSharp\13_VirtualMethods\obj\Debug\netcoreapp3.1\13_VirtualMethods.pdb
+C:\Users\ruvey\Documents\GitHub\BtkAkademi-CSharp\CSharp\13_VirtualMethods\obj\Debug\netcoreapp3.1\13_VirtualMethods.genruntimeconfig.cache

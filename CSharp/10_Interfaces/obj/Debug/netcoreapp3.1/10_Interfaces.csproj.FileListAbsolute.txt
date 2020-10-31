@@ -1,0 +1,13 @@
+C:\Users\ruvey\Documents\GitHub\BtkAkademi-CSharp\CSharp\10_Interfaces\bin\Debug\netcoreapp3.1\10_Interfaces.exe
+C:\Users\ruvey\Documents\GitHub\BtkAkademi-CSharp\CSharp\10_Interfaces\bin\Debug\netcoreapp3.1\10_Interfaces.deps.json
+C:\Users\ruvey\Documents\GitHub\BtkAkademi-CSharp\CSharp\10_Interfaces\bin\Debug\netcoreapp3.1\10_Interfaces.runtimeconfig.json
+C:\Users\ruvey\Documents\GitHub\BtkAkademi-CSharp\CSharp\10_Interfaces\bin\Debug\netcoreapp3.1\10_Interfaces.runtimeconfig.dev.json
+C:\Users\ruvey\Documents\GitHub\BtkAkademi-CSharp\CSharp\10_Interfaces\bin\Debug\netcoreapp3.1\10_Interfaces.dll
+C:\Users\ruvey\Documents\GitHub\BtkAkademi-CSharp\CSharp\10_Interfaces\bin\Debug\netcoreapp3.1\10_Interfaces.pdb
+C:\Users\ruvey\Documents\GitHub\BtkAkademi-CSharp\CSharp\10_Interfaces\obj\Debug\netcoreapp3.1\10_Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\ruvey\Documents\GitHub\BtkAkademi-CSharp\CSharp\10_Interfaces\obj\Debug\netcoreapp3.1\10_Interfaces.AssemblyInfoInputs.cache
+C:\Users\ruvey\Documents\GitHub\BtkAkademi-CSharp\CSharp\10_Interfaces\obj\Debug\netcoreapp3.1\10_Interfaces.AssemblyInfo.cs
+C:\Users\ruvey\Documents\GitHub\BtkAkademi-CSharp\CSharp\10_Interfaces\obj\Debug\netcoreapp3.1\10_Interfaces.dll
+C:\Users\ruvey\Documents\GitHub\BtkAkademi-CSharp\CSharp\10_Interfaces\obj\Debug\netcoreapp3.1\10_Interfaces.pdb
+C:\Users\ruvey\Documents\GitHub\BtkAkademi-CSharp\CSharp\10_Interfaces\obj\Debug\netcoreapp3.1\10_Interfaces.genruntimeconfig.cache
+C:\Users\ruvey\Documents\GitHub\BtkAkademi-CSharp\CSharp\10_Interfaces\obj\Debug\netcoreapp3.1\10_Interfaces.csprojAssemblyReference.cache

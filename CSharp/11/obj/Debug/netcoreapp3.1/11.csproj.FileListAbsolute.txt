@@ -1,0 +1,13 @@
+C:\Users\ruvey\Documents\GitHub\BtkAkademi-CSharp\CSharp\11\bin\Debug\netcoreapp3.1\11.exe
+C:\Users\ruvey\Documents\GitHub\BtkAkademi-CSharp\CSharp\11\bin\Debug\netcoreapp3.1\11.deps.json
+C:\Users\ruvey\Documents\GitHub\BtkAkademi-CSharp\CSharp\11\bin\Debug\netcoreapp3.1\11.runtimeconfig.json
+C:\Users\ruvey\Documents\GitHub\BtkAkademi-CSharp\CSharp\11\bin\Debug\netcoreapp3.1\11.runtimeconfig.dev.json
+C:\Users\ruvey\Documents\GitHub\BtkAkademi-CSharp\CSharp\11\bin\Debug\netcoreapp3.1\11.dll
+C:\Users\ruvey\Documents\GitHub\BtkAkademi-CSharp\CSharp\11\bin\Debug\netcoreapp3.1\11.pdb
+C:\Users\ruvey\Documents\GitHub\BtkAkademi-CSharp\CSharp\11\obj\Debug\netcoreapp3.1\11.csproj.CoreCompileInputs.cache
+C:\Users\ruvey\Documents\GitHub\BtkAkademi-CSharp\CSharp\11\obj\Debug\netcoreapp3.1\11.AssemblyInfoInputs.cache
+C:\Users\ruvey\Documents\GitHub\BtkAkademi-CSharp\CSharp\11\obj\Debug\netcoreapp3.1\11.AssemblyInfo.cs
+C:\Users\ruvey\Documents\GitHub\BtkAkademi-CSharp\CSharp\11\obj\Debug\netcoreapp3.1\11.dll
+C:\Users\ruvey\Documents\GitHub\BtkAkademi-CSharp\CSharp\11\obj\Debug\netcoreapp3.1\11.pdb
+C:\Users\ruvey\Documents\GitHub\BtkAkademi-CSharp\CSharp\11\obj\Debug\netcoreapp3.1\11.genruntimeconfig.cache
+C:\Users\ruvey\Documents\GitHub\BtkAkademi-CSharp\CSharp\11\obj\Debug\netcoreapp3.1\11.csprojAssemblyReference.cache

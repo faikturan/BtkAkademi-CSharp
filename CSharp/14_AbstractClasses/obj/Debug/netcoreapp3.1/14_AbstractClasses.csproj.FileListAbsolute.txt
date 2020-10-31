@@ -1,0 +1,12 @@
+C:\Users\ruvey\Documents\GitHub\BtkAkademi-CSharp\CSharp\14_AbstractClasses\bin\Debug\netcoreapp3.1\14_AbstractClasses.exe
+C:\Users\ruvey\Documents\GitHub\BtkAkademi-CSharp\CSharp\14_AbstractClasses\bin\Debug\netcoreapp3.1\14_AbstractClasses.deps.json
+C:\Users\ruvey\Documents\GitHub\BtkAkademi-CSharp\CSharp\14_AbstractClasses\bin\Debug\netcoreapp3.1\14_AbstractClasses.runtimeconfig.json
+C:\Users\ruvey\Documents\GitHub\BtkAkademi-CSharp\CSharp\14_AbstractClasses\bin\Debug\netcoreapp3.1\14_AbstractClasses.runtimeconfig.dev.json
+C:\Users\ruvey\Documents\GitHub\BtkAkademi-CSharp\CSharp\14_AbstractClasses\bin\Debug\netcoreapp3.1\14_AbstractClasses.dll
+C:\Users\ruvey\Documents\GitHub\BtkAkademi-CSharp\CSharp\14_AbstractClasses\bin\Debug\netcoreapp3.1\14_AbstractClasses.pdb
+C:\Users\ruvey\Documents\GitHub\BtkAkademi-CSharp\CSharp\14_AbstractClasses\obj\Debug\netcoreapp3.1\14_AbstractClasses.csproj.CoreCompileInputs.cache
+C:\Users\ruvey\Documents\GitHub\BtkAkademi-CSharp\CSharp\14_AbstractClasses\obj\Debug\netcoreapp3.1\14_AbstractClasses.AssemblyInfoInputs.cache
+C:\Users\ruvey\Documents\GitHub\BtkAkademi-CSharp\CSharp\14_AbstractClasses\obj\Debug\netcoreapp3.1\14_AbstractClasses.AssemblyInfo.cs
+C:\Users\ruvey\Documents\GitHub\BtkAkademi-CSharp\CSharp\14_AbstractClasses\obj\Debug\netcoreapp3.1\14_AbstractClasses.dll
+C:\Users\ruvey\Documents\GitHub\BtkAkademi-CSharp\CSharp\14_AbstractClasses\obj\Debug\netcoreapp3.1\14_AbstractClasses.pdb
+C:\Users\ruvey\Documents\GitHub\BtkAkademi-CSharp\CSharp\14_AbstractClasses\obj\Debug\netcoreapp3.1\14_AbstractClasses.genruntimeconfig.cache
