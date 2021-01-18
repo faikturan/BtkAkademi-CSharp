@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ruvey\\Documents\\GitHub\\BtkAkademi-CSharp\\CSharp\\01_TypesAndVariables\\01_TypesAndVariables.csproj": {}
+    "C:\\Users\\HP\\Documents\\GitHub\\BtkAkademi-CSharp\\CSharp\\01_TypesAndVariables\\01_TypesAndVariables.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ruvey\\Documents\\GitHub\\BtkAkademi-CSharp\\CSharp\\01_TypesAndVariables\\01_TypesAndVariables.csproj": {
+    "C:\\Users\\HP\\Documents\\GitHub\\BtkAkademi-CSharp\\CSharp\\01_TypesAndVariables\\01_TypesAndVariables.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ruvey\\Documents\\GitHub\\BtkAkademi-CSharp\\CSharp\\01_TypesAndVariables\\01_TypesAndVariables.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Documents\\GitHub\\BtkAkademi-CSharp\\CSharp\\01_TypesAndVariables\\01_TypesAndVariables.csproj",
         "projectName": "01_TypesAndVariables",
-        "projectPath": "C:\\Users\\ruvey\\Documents\\GitHub\\BtkAkademi-CSharp\\CSharp\\01_TypesAndVariables\\01_TypesAndVariables.csproj",
-        "packagesPath": "C:\\Users\\ruvey\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ruvey\\Documents\\GitHub\\BtkAkademi-CSharp\\CSharp\\01_TypesAndVariables\\obj\\",
+        "projectPath": "C:\\Users\\HP\\Documents\\GitHub\\BtkAkademi-CSharp\\CSharp\\01_TypesAndVariables\\01_TypesAndVariables.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\Documents\\GitHub\\BtkAkademi-CSharp\\CSharp\\01_TypesAndVariables\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\ruvey\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -30,6 +30,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -41,6 +42,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -56,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
